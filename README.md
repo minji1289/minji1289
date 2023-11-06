@@ -1,10 +1,11 @@
-### Hi there 👋
+### Welcome! (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji1289%2Fhit-counter&count_bg=%23FFA3CD&title_bg=%23FFA3CD&icon=github.svg&icon_color=%23FFFFFF&title=&edge_flat=false)](https://hits.seeyoufarm.com)
 
+### 📎
+<a href="https://velog.io/@minji1289"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@minji1289"/></a>
 
-
+### 🏆
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji1289&show_icons=true&theme=vue)
-
-
 
 <!--
 **minji1289/minji1289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
