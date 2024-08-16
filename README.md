@@ -1,8 +1,9 @@
 ### Welcome! (*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji1289%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ### 📎
 <a href="https://velog.io/@minji1289"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@minji1289"/></a>
+<a href="https://www.linkedin.com/in/minji-kim-5b2817321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/minji-kim-5b2817321" width=8% height=8%/></a>
+
 
 ### 🏆
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji1289&show_icons=true&theme=vue)
