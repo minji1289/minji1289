@@ -2,7 +2,7 @@
 
 ### 📎
 <a href="https://velog.io/@minji1289"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@minji1289"/></a>
-<a href="https://www.linkedin.com/in/minji-kim-5b2817321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/minji-kim-5b2817321" width=8% height=8%/></a>
+<a href="https://www.linkedin.com/in/minji-kim-5b2817321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/minji-kim-5b2817321" width=10% height=10%/></a>
 
 
 ### 🏆
